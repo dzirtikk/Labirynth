@@ -1,0 +1,14 @@
+C:\Users\kl\Desktop\ConisoleGime\bin\Debug\ConisoleGime.exe.config
+C:\Users\kl\Desktop\ConisoleGime\bin\Debug\ConisoleGime.exe
+C:\Users\kl\Desktop\ConisoleGime\bin\Debug\ConisoleGime.pdb
+C:\Users\kl\Desktop\ConisoleGime\obj\Debug\ConisoleGime.csprojAssemblyReference.cache
+C:\Users\kl\Desktop\ConisoleGime\obj\Debug\ConisoleGime.csproj.CoreCompileInputs.cache
+C:\Users\kl\Desktop\ConisoleGime\obj\Debug\ConisoleGime.exe
+C:\Users\kl\Desktop\ConisoleGime\obj\Debug\ConisoleGime.pdb
+C:\Users\Viktor\Downloads\ConisoleGime\ConisoleGime\bin\Debug\ConisoleGime.exe.config
+C:\Users\Viktor\Downloads\ConisoleGime\ConisoleGime\bin\Debug\ConisoleGime.exe
+C:\Users\Viktor\Downloads\ConisoleGime\ConisoleGime\bin\Debug\ConisoleGime.pdb
+C:\Users\Viktor\Downloads\ConisoleGime\ConisoleGime\obj\Debug\ConisoleGime.csprojAssemblyReference.cache
+C:\Users\Viktor\Downloads\ConisoleGime\ConisoleGime\obj\Debug\ConisoleGime.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Downloads\ConisoleGime\ConisoleGime\obj\Debug\ConisoleGime.exe
+C:\Users\Viktor\Downloads\ConisoleGime\ConisoleGime\obj\Debug\ConisoleGime.pdb
